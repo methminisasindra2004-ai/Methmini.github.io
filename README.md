@@ -19,4 +19,4 @@ Created an interactive Tableau dashboard to analyze e-commerce sales, profit, or
 
 ## Contact
 - Email: methminisasindra2004@gmail.com
-- LinkedIn: [Methmini Hewawasam](www.linkedin.com/in/methmini-hewawasam-a385343a5)
+- LinkedIn: [Methmini Hewawasam](www.linkedin.com/in/methmini-hewawasam)
